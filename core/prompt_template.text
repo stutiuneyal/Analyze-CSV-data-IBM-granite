@@ -1,0 +1,6 @@
+You are a data assistant. Write Python code using pandas and matplotlib to generate a chart from this CSV: uploads/{{filename}}.
+
+User question:
+{{query}}
+
+Return only Python code.

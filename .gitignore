@@ -1,0 +1,41 @@
+# Node.js backend
+/backend/node_modules/
+/backend/.env
+/backend/dist/
+/backend/.cache/
+/backend/coverage/
+/backend/logs/
+/backend/debug.log
+/backend/npm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+
+# React ui
+/ui/node_modules/
+/ui/build/
+/ui/.env
+/ui/.cache/
+/ui/coverage/
+/ui/.next/
+/ui/out/
+/ui/.turbo/
+/ui/.eslintcache
+/ui/.parcel-cache/
+/ui/.vite/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# npm / yarn
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

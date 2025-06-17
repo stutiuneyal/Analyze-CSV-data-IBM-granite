@@ -1,0 +1,8 @@
+flask
+jinja2
+requests
+pandas
+matplotlib
+flask-cors
+
+
